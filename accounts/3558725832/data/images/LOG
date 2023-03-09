@@ -1,0 +1,35 @@
+=============== Mar 9, 2023 (CST) ===============
+14:56:03.137197 log@legend F·NumFile S·FileSize N·Entry C·BadEntry B·BadBlock Ke·KeyError D·DroppedEntry L·Level Q·SeqNum T·TimeElapsed
+14:56:03.172864 db@open opening
+14:56:03.175199 version@stat F·[] S·0B[] Sc·[]
+14:56:03.177516 db@janitor F·2 G·0
+14:56:03.177516 db@open done T·4.6517ms
+=============== Mar 9, 2023 (CST) ===============
+14:59:19.279353 log@legend F·NumFile S·FileSize N·Entry C·BadEntry B·BadBlock Ke·KeyError D·DroppedEntry L·Level Q·SeqNum T·TimeElapsed
+14:59:19.294076 version@stat F·[] S·0B[] Sc·[]
+14:59:19.294076 db@open opening
+14:59:19.294076 journal@recovery F·1
+14:59:19.294580 journal@recovery recovering @1
+14:59:19.294618 version@stat F·[] S·0B[] Sc·[]
+14:59:19.305466 db@janitor F·2 G·0
+14:59:19.305466 db@open done T·11.3897ms
+=============== Mar 9, 2023 (CST) ===============
+15:39:06.125036 log@legend F·NumFile S·FileSize N·Entry C·BadEntry B·BadBlock Ke·KeyError D·DroppedEntry L·Level Q·SeqNum T·TimeElapsed
+15:39:06.140126 version@stat F·[] S·0B[] Sc·[]
+15:39:06.140126 db@open opening
+15:39:06.140126 journal@recovery F·1
+15:39:06.140126 journal@recovery recovering @2
+15:39:06.142877 memdb@flush created L0@4 N·13 S·1KiB "\"\x06}..\xa4i\xf4,v10":"\xed\x15e..\x13ĥ,v12"
+15:39:06.143428 version@stat F·[1] S·1KiB[1KiB] Sc·[0.25]
+15:39:06.149565 db@janitor F·3 G·0
+15:39:06.149565 db@open done T·9.4385ms
+15:59:21.612514 memdb@flush N·20 S·3KiB
+15:59:21.614135 memdb@flush created L0@8 N·20 S·2KiB "\x05\x11\xb9..\xe4\xde{,v15":"\xfa\xe9\x85..\x12C\xee,v33"
+15:59:21.614135 version@stat F·[2] S·3KiB[3KiB] Sc·[0.50]
+15:59:21.615668 memdb@flush committed F·1 T·3.1538ms
+15:59:21.615668 journal@remove removed @5
+16:11:10.853925 memdb@flush N·23 S·3KiB
+16:11:10.855999 memdb@flush created L0@10 N·23 S·2KiB "\b\x90)..\xd5\x0f\xe3,v40":"\xff\x95m..\x05L\x8a,v52"
+16:11:10.855999 version@stat F·[3] S·5KiB[5KiB] Sc·[0.75]
+16:11:10.857638 memdb@flush committed F·1 T·3.713ms
+16:11:10.858176 journal@remove removed @7

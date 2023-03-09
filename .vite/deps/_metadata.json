@@ -1,0 +1,80 @@
+{
+  "hash": "e4b7a8cf",
+  "browserHash": "8df90ae9",
+  "optimized": {
+    "vue": {
+      "src": "../../node_modules/vue/dist/vue.runtime.esm-bundler.js",
+      "file": "vue.js",
+      "fileHash": "c24fe46a",
+      "needsInterop": false
+    },
+    "vue-router": {
+      "src": "../../node_modules/vue-router/dist/vue-router.mjs",
+      "file": "vue-router.js",
+      "fileHash": "71ce538b",
+      "needsInterop": false
+    },
+    "element-plus": {
+      "src": "../../node_modules/element-plus/es/index.mjs",
+      "file": "element-plus.js",
+      "fileHash": "a1851198",
+      "needsInterop": false
+    },
+    "@vueuse/core": {
+      "src": "../../node_modules/@vueuse/core/index.mjs",
+      "file": "@vueuse_core.js",
+      "fileHash": "6441fc91",
+      "needsInterop": false
+    },
+    "@popperjs/core": {
+      "src": "../../node_modules/@popperjs/core/dist/index.mjs",
+      "file": "@popperjs_core.js",
+      "fileHash": "9e43c679",
+      "needsInterop": false
+    },
+    "marked": {
+      "src": "../../node_modules/marked/lib/marked.esm.js",
+      "file": "marked.js",
+      "fileHash": "e6375d94",
+      "needsInterop": false
+    },
+    "xss": {
+      "src": "../../node_modules/xss/lib/index.js",
+      "file": "xss.js",
+      "fileHash": "98f4dd88",
+      "needsInterop": true
+    },
+    "@koishijs/client": {
+      "src": "../../node_modules/@koishijs/client/client/index.ts",
+      "file": "@koishijs_client.js",
+      "fileHash": "b921af4d",
+      "needsInterop": false
+    }
+  },
+  "chunks": {
+    "chunk-C67OIUB6": {
+      "file": "chunk-C67OIUB6.js"
+    },
+    "chunk-2L3GJZXM": {
+      "file": "chunk-2L3GJZXM.js"
+    },
+    "chunk-5GM7DXJ6": {
+      "file": "chunk-5GM7DXJ6.js"
+    },
+    "chunk-P2FA5UP5": {
+      "file": "chunk-P2FA5UP5.js"
+    },
+    "chunk-FXSMT4ZS": {
+      "file": "chunk-FXSMT4ZS.js"
+    },
+    "chunk-C6MKFA2W": {
+      "file": "chunk-C6MKFA2W.js"
+    },
+    "chunk-DOEJWRST": {
+      "file": "chunk-DOEJWRST.js"
+    },
+    "chunk-Y4AOG3KG": {
+      "file": "chunk-Y4AOG3KG.js"
+    }
+  }
+}
